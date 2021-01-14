@@ -1,0 +1,127 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 661064474,
+            "message": {
+                "message_id": 2,
+                "from": {
+                    "id": 451378467,
+                    "is_bot": false,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 451378467,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "type": "private"
+                },
+                "date": 1594285795,
+                "text": "ghbdtn"
+            }
+        },
+        {
+            "update_id": 661064475,
+            "message": {
+                "message_id": 3,
+                "from": {
+                    "id": 451378467,
+                    "is_bot": false,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 451378467,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "type": "private"
+                },
+                "date": 1594285798,
+                "text": "\u043f\u0440\u043b\u0432\u044b\u043e\u0440"
+            }
+        },
+        {
+            "update_id": 661064476,
+            "message": {
+                "message_id": 4,
+                "from": {
+                    "id": 451378467,
+                    "is_bot": false,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 451378467,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "type": "private"
+                },
+                "date": 1594285801,
+                "text": "\u0422\u0415\u0421\u0422\u041f"
+            }
+        },
+        {
+            "update_id": 661064477,
+            "message": {
+                "message_id": 5,
+                "from": {
+                    "id": 451378467,
+                    "is_bot": false,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 451378467,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "type": "private"
+                },
+                "date": 1594286181,
+                "text": "MASSAGE_TEST"
+            }
+        },
+        {
+            "update_id": 661064478,
+            "message": {
+                "message_id": 6,
+                "from": {
+                    "id": 451378467,
+                    "is_bot": false,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 451378467,
+                    "first_name": "\u0412\u0430\u0433\u0438\u0437",
+                    "last_name": "\u0423\u0440\u0430\u0437\u043e\u0432",
+                    "username": "zigav",
+                    "type": "private"
+                },
+                "date": 1594286554,
+                "text": "/clear",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        }
+    ]
+}s
